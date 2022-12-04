@@ -6,10 +6,10 @@ CREATE TABLE Students
     address TEXT
 );
 
-INSERT INTO Students VALUES(7719843, 'Игорь', 21, 'Москва');
-INSERT INTO Students VALUES(7479262, 'Владислав', 33, 'Химки');
-INSERT INTO Students VALUES(7624808, 'Павел', 31, 'Санкт-Петербур');
-INSERT INTO Students VALUES(7630242, 'Анастасия', 30, 'Ижевск');
-INSERT INTO Students VALUES(7650251, 'Константин', 43, 'Барнаул');
+INSERT INTO Students VALUES(7719843, '╨Ш╨│╨╛╤А╤М', 21, '╨Ь╨╛╤Б╨║╨▓╨░');
+INSERT INTO Students VALUES(7479262, '╨Т╨╗╨░╨┤╨╕╤Б╨╗╨░╨▓', 33, '╨е╨╕╨╝╨║╨╕');
+INSERT INTO Students VALUES(7624808, '╨Я╨░╨▓╨╡╨╗', 31, '╨б╨░╨╜╨║╤В-╨Я╨╡╤В╨╡╤А╨▒╤Г╤А');
+INSERT INTO Students VALUES(7630242, '╨Р╨╜╨░╤Б╤В╨░╤Б╨╕╤П', 30, '╨Ш╨╢╨╡╨▓╤Б╨║');
+INSERT INTO Students VALUES(7650251, '╨Ъ╨╛╨╜╤Б╤В╨░╨╜╤В╨╕╨╜', 43, '╨С╨░╤А╨╜╨░╤Г╨╗');
 
 SELECT * FROM Students;
